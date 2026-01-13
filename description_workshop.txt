@@ -1,1 +1,2 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+Makes it so that dodges that normally occur via random chance (ie the black belt, master ninja gear, and brain of confusion) are instead cooldown based.
+By default, Brain of Confusion dodge cooldown is 15 seconds, while Black Belt dodge cooldown is 22 seconds (based on their vanilla dodge chances). Both cooldowns are reset upon taking damage by default, which can be toggled. Cooldown durations can be customized as well. Enjoy!
