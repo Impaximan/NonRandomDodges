@@ -1,0 +1,24 @@
+Configs: {
+	Config: {
+		DisplayName: Config
+		Headers.ConfigHeader: Balance
+
+		bocCooldown: {
+			Label: Brain of Confusion dodge cooldown
+			Tooltip: The dodge cooldown, in seconds, of the brain of confusion
+		}
+
+		blackBeltCooldown: {
+			Label: Black Belt dodge cooldown
+			Tooltip: The dodge cooldown, in seconds, of the black belt
+		}
+
+		cooldownResetWhenHit: {
+			Label: Reset dodge cooldown when taking damage
+			Tooltip: If set to true, the cooldowns for both affected dodges will be reset when you take damage normally.
+		}
+	}
+}
+
+BrainTooltip: Periodically allows you to create illusions and dodge an attack
+BlackBeltTooltip: Periodically allows you to dodge attacks, avoiding damage
